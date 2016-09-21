@@ -4,3 +4,4 @@ wn = turtle.Screen()
 
 squirtle = turtle.Turtle
 squirtle.shape(turtle)
+ 4
