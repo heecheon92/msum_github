@@ -1,2 +1,6 @@
 # msum_github
-Hello people.
+import turtle
+wn = turtle.Screen()
+
+squirtle = turtle.Turtle
+squirtle.shape(turtle)
